@@ -8,6 +8,8 @@ PIR Motion Sensor Interface for Domoticz with Raspberry Pi Zero
 
 
 ------
+#### ![beer](https://icons.iconarchive.com/icons/google/noto-emoji-food-drink/32/32439-beer-mug-icon.png) Buy me a beer! ![beer](https://icons.iconarchive.com/icons/google/noto-emoji-food-drink/32/32439-beer-mug-icon.png)
+
 <a href="https://www.paypal.com/donate?hosted_button_id=6G4MHNDWJYKEY">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
 </a>
